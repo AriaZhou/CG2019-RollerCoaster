@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="/AppMain">
+    <file>Resources/Icons/pause.png</file>
+    <file>Resources/Icons/play.png</file>
+    <file>slider_handle.png</file>
+    <file>mdelete.png</file>
+    <file>madd.png</file>
+    <file>mplay.png</file>
+    <file>Resources/Icons/pause.ico</file>
+    <file>down_arrow.ico</file>
+    <file>Resources/Icons/backward.ico</file>
+    <file>Resources/Icons/forward.ico</file>
+    <file>Resources/Icons/play.ico</file>
+    <file>Resources/Icons/openfile.ico</file>
+    <file>Resources/Icons/savefile.ico</file>
+  </qresource>
+  <qresource/>
+</RCC>
