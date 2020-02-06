@@ -12,7 +12,16 @@ Project 3 in CG. A funny roller coaster game.
 <img src="/gallery/功能1.png" width="600" />
 <img src="/gallery/功能2.png" width="600" />
 
-<video id="video" controls="" preload="none" poster="gallery/login-1.png">
+* 图片预览:
+
+<img src="/gallery/login-1.jpg" width="600" />
+<img src="/gallery/login-2.jpg" width="600" />
+<img src="/gallery/login-3.jpg" width="600" />
+<img src="/gallery/login-4.jpg" width="600" />
+
+* 操作视频:
+
+<video id="video" controls="" preload="none" poster="gallery/login-1.jpg">
   <source id="mp4" src="video/video1.mp4" type="video/mp4">
   <p>Your user agent does not support the HTML5 Video element.</p>
 </video>
